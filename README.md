@@ -5,7 +5,7 @@ Generates preview images for embeddings, loras, and hypernetworks, selectable by
 
 This will work out of the box, without any tinkering, especially for embeddings and hypernetworks. For you to get real value out of this for loras, the lora files need to be named after their trigger words. If you want gelbooru to help, then naming the file the same as the booru tag for their name (character or author) will help for when the script tries to get tags for them.
 
-Installation: Just copy the script to your webui scripts folder.
+Installation: Just copy the script and the tags file to your webui scripts folder.
 
 Usage:
 All of the generation data will be used as expected, and if you have "Get tags from Gelbooru" checked, then it'll attempt to get tags and add them to the end of your prompt.
