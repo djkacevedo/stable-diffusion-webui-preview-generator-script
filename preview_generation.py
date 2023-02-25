@@ -201,8 +201,7 @@ def main(p, overwrite_existing_images, use_gelbooru, model_path, show_results, f
 
   state.job_count = len(chars)
 
-  # accepted_tags = read_file_tags("scripts/tags_good.txt")
-  bad_tags = read_file_tags("scripts/tags_bad.txt")
+  bad_tags = read_file_tags("scripts/preview_generation_tags_bad.txt")
   
   urls = [ [None] * 3 ] * len(chars)
   prompts = [None] * len(chars)
