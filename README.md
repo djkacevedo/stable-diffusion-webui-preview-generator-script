@@ -19,3 +19,5 @@ path to models: drop down for all of your model directories that this will work 
 WARNING: if you already have previews you like, then do not select the folder's they're in, or do not check the overwrite box.
 
 Also of note: if you check filter tags, then it sorts by rating instead of score, so your a lot less likely to get tags based on a lewd image.
+
+Also also: My Python is weak, so... yeah... if you want to shit on me for my bad code, then please do. I'd appreciate the advice.
